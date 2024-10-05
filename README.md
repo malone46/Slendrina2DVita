@@ -13,7 +13,7 @@ Can be underclocked for a stable 60fps to:
 - CPU: 222 MHz
 - GPU : 111 MHz
 - XBAR: 111 MHz
-- 
+
 ![2024-10-05-172646](https://github.com/user-attachments/assets/ed21dea3-c836-4f42-8859-55fa91233d46)
 
 ![2024-10-05-172817](https://github.com/user-attachments/assets/e63d9a21-48e1-435a-a879-da709ce766ce)
