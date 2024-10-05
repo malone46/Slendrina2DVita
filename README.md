@@ -1,4 +1,5 @@
 # Slendrina 2D for the Playstation Vita
+Back for a little game, Slendrina 2D.
 Based on the 1.2.1 Android **FREE** .APK
 
 Slendrina is back in a new scary adventure!
