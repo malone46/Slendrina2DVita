@@ -9,6 +9,8 @@ Examine an abandoned house and solve different tasks to pass this game.
 
 ![2024-10-05-172601](https://github.com/user-attachments/assets/88789782-3b82-47cd-808e-6207e34201ce)
 
+# Performances
+Performances are really high even without overclocking (120 fps).
 Can be underclocked for a stable 60fps to:
 - CPU: 222 MHz
 - GPU : 111 MHz
