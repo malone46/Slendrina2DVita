@@ -1,5 +1,5 @@
 # Slendrina 2D for the Playstation Vita
-Based on the 1.2.1
+Based on the 1.2.1 Android **FREE** .APK
 
 Slendrina is back in a new scary adventure!
 This time in a type 2D side scroller game!
@@ -20,3 +20,9 @@ Can be underclocked for a stable 60fps to:
 
 Know issues:
 - Rooms aren't transparents.
+
+  Port by MaloneCZSD.
+
+  Links:
+  https://ko-fi.com/maloneczsd
+  https://discord.gg/k2GvUUT4bm
