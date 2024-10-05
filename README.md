@@ -18,5 +18,5 @@ Can be underclocked for a stable 60fps to:
 
 ![2024-10-05-172817](https://github.com/user-attachments/assets/e63d9a21-48e1-435a-a879-da709ce766ce)
 
-Known issues:
+Know issues:
 - Rooms aren't transparents.
